@@ -10,3 +10,4 @@ class Solution:
                 if len(s) == count:
                     ans += 1
         return ans
+
